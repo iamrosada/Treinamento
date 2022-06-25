@@ -1,11 +1,7 @@
 
 function App() {
-
-
   return (
-    <h1>
-      ola
-    </h1>
+    <h1 className="text-5xl font-mono"> Hello World</h1>
   )
 }
 
